@@ -15,8 +15,8 @@ on:
 jobs:
   build:
     env:
-      fqkkurl: ${{ secrets.fqkkurl }}
-      fqkkhd: ${{ secrets.fqkkhd }}
+      fqkkurl: ${{ secrets.FQKK_URL }}
+      fqkkhd: ${{ secrets.FQKK_HD }}
       PUSH_KEY: ${{ secrets.PUSH_KEY }}
       BARK_PUSH: ${{ secrets.BARK_PUSH }}
       TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
