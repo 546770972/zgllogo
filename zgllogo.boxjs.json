@@ -1,7 +1,7 @@
 {
-  "id": "linainai.app.sub",
-  "name": "李奶奶BOX订阅",
-  "author": "@linainai",
+  "id": "tsll.app.sub",
+  "name": "logo666",
+  "author": "@tsll",
   "icon": "https://raw.githubusercontent.com/dawangLM/linainai/main/linainai.png",
   "repo": "https://raw.githubusercontent.com/dawangLM/linainai",
   "apps": [
@@ -9,7 +9,7 @@
       "id": "fhxz",
       "name": "富豪小镇",
       "keys": ["fhxzurl", "fhxzhd","fhxzurl2","fhxzhd2","fhxzurl3","fhxzhd3","fhxzurl4","fhxzhd4","fhxzurl5","fhxzhd5","fhxzurl6","fhxzhd6","fhxzurl7","fhxzhd7","fhxzurl8","fhxzhd8","fhxzurl9","fhxzhd9","fhxzurl10","fhxzhd10","fhxzurl11","fhxzhd11","fhxzurl13","fhxzhd13","fhxzurl14","fhxzhd14","fhxzurl15","fhxzhd15","fhxzurl16","fhxzhd16","fhxzurl17","fhxzhd17","fhxzurl18","fhxzhd18","fhxzurl19","fhxzhd19","fhxzurl20","fhxzhd20","fhxzurl21","fhxzhd21","fhxzurl22","fhxzhd22","fhxzurl23","fhxzhd23","fhxzurl24","fhxzhd24","fhxzurl25","fhxzhd25"],
-      "author": "@linainai",
+      "author": "@tsll",
       "settings": [{
             "id": "fhxzsetting",
             "name": "当前账号",
@@ -32,7 +32,7 @@
             "id": "qmdff",
             "name": "全民大丰收",
             "keys": ["qmdffurl","qmdffheader", "qmdffurl2","qmdffheader2", "qmdffurl3","qmdffheader3", "qmdffurl4","qmdffheader4", "qmdffurl5","qmdffheader5", "qmdffurl6","qmdffheader6", "qmdffurl7","qmdffheader7", "qmdffurl8","qmdffheader8", "qmdffurl9","qmdffheader9", "qmdffurl10","qmdffheader10", "qmdffurl11","qmdffheader11", "qmdffurl12","qmdffheader12", "qmdffurl13","qmdffheader13", "qmdffurl14","qmdffheader14", "qmdffurl15","qmdffheader15", "qmdffurl16","qmdffheader16", "qmdffurl17","qmdffheader17", "qmdffurl18","qmdffheader18", "qmdffurl19","qmdffheader19", "qmdffurl20","qmdffheader20", "qmdffurl21","qmdffheader21", "qmdffurl22","qmdffheader22", "qmdffurl23","qmdffheader23", "qmdffurl24","qmdffheader24", "qmdffurl25","qmdffheader25"],
-            "author": "@ningmeng",
+            "author": "@tsll",
             "settings": [{
             "id": "qmdffstatus",
             "name": "当前账号",
@@ -56,7 +56,7 @@
             "id": "tfb",
             "name": "推粉宝",
             "keys": ["tfbhd","tfbhd1", "tfbhd2","tfbhd3", "tfbhd4","tfbhd5", "tfbhd6","tfbhd7", "tfbhd8","tfbhd9", "tfbhd10","tfbhd11", "tfbhd12","tfbhd13", "tfbhd14","tfbhd15"],
-            "author": "@linainai",
+            "author": "@tsll",
             "settings": [{
             "id": "tfbstatus",
             "name": "当前账号",
