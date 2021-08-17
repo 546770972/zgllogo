@@ -32,7 +32,7 @@
         "desc": "默认180,需要突破限制请添加数字。"
       }
     ],
-            "repo": "https://raw.githubusercontent.com/546770972/zgllogo/main/shuqi.js",
+            "repo": "https://raw.githubusercontent.com/546770972/zgllogo",
             "icons": ["https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi-mini.png", "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.png"],
             "script": "https://raw.githubusercontent.com/546770972/zgllogo/main/shuqi.js"
     },
